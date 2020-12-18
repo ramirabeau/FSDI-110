@@ -8,6 +8,9 @@ from homework import calculate_age, calculate_tip
 # functions
 
 
+clear()
+
+
 def register_product():
     # title, category, stock, price
     print_header("    Register a new product    ")

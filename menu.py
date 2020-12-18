@@ -18,4 +18,4 @@ def print_header(header_text):
 
 
 def clear():
-    print("\n\n\n\n\n\n")
+    print("\n\n\n")
