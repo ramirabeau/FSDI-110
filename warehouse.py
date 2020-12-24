@@ -17,7 +17,7 @@ def register_product():
     global next_id
 
     try:
-        print_header("    Register a new product    ")
+        print_header("** Register a new product **")
         title = input("Please provide the Title:  ")
         category = input("Please provide the Category:  ")
         stock = int(input("Please provide the Stock Quantity:  "))
